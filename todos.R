@@ -12,3 +12,6 @@ started <- 2022
 born <- 2005
 spent <- (now-started)/(now-born)*100
 round(spent, digits=4)
+
+
+# abc
